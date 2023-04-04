@@ -1,0 +1,34 @@
+img{
+    height: 100vh;
+    width: 1600px;
+ background-position: center;
+    background-repeat: no-repeat;
+}
+.card{
+    background-color: cyan;
+    color: white;
+    border-top-left-radius:50px;
+    border-bottom-right-radius: 50px; 
+    border-top-right-radius:10px;
+    border-bottom-left-radius: 10px; 
+    text-align: center;
+
+}
+.card-text{
+    font-family: serif;
+    font-size: 20px;
+    color: teal;
+}
+#card1{
+    background-color: coral;
+}
+
+#card-text1{
+    font-family: serif;
+    font-size: 25px;
+    color: skyblue;
+}
+/* #img{
+    height: 500px;
+    width: 1000px;
+} */

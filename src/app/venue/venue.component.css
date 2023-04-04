@@ -1,0 +1,32 @@
+.small{
+    background-color: sandybrown;
+    height: 100px;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+h5{
+    color: tomato;
+    font-family: cursive;
+}
+h6{
+    color:  aqua;
+    font-family: cursive;
+}
+#run{
+    font-family:cursive;
+    color: crimson;
+}
+img{
+   position: center;
+}
+.sm{
+    background-color: royalblue;
+    color: cornsilk;
+    text-align: center;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+h1{
+    color: orange;
+}
